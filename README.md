@@ -12,7 +12,9 @@
 ![img](screenshot/result2.png)
 
 [5. 단어 수정]
+
 ![img](screenshot/result3.png)
 
 [6.단어 삭제]
-![img](screenshot/resut4.png)
+
+![img](screenshot/result4.png)
