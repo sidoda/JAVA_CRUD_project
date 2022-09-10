@@ -28,3 +28,11 @@
 [단어 불러오기]
 
 ![img](screenshot/result6.png)
+
+[2.수준별 단어 보기]
+
+![img](screenshot/result7.png)
+
+[3.단어 검색]
+
+![img](screenshot/result8.png)
