@@ -24,5 +24,7 @@
 ![img](screenshot/result5_1.png)
 ![img](screenshot/result5_2.png)
 
+
+
 [단어 불러오기]
 ![img](screenshot/result6.png)
