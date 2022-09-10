@@ -18,3 +18,11 @@
 [6.단어 삭제]
 
 ![img](screenshot/result4.png)
+
+[7.단어 저장]
+
+![img](screenshot/result5_1.png)
+![img](screenshot/result5_2.png)
+
+[단어 불러오기]
+![img](screenshot/result6.png)
