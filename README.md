@@ -23,7 +23,7 @@
 
 ![img](screenshot/result5_1.png)
 ![img](screenshot/result5_2.png)
-
+![img](screenshot/dictionary.png)
 
 [단어 불러오기]
 
